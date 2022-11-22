@@ -1,5 +1,4 @@
 -- Part 1: Test it with SQL
---list the columns and their data types as a SQL comment
 --id int PK
 --employer varchar(255)
 --name varchar(255)
